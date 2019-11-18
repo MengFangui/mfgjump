@@ -1,0 +1,37 @@
+language: node_js
+node_js:
+  - lts/*
+jobs:
+  include:
+    - stage: docs
+      if: branch = 0.3.x
+      install:
+        - npm install
+      script: npm run docs:build
+      deploy:
+        provider: pages
+        skip_cleanup: true
+        local_dir: docs/.vuepress/dist/Jump
+        github_token: $GITHUB_TOKEN # a token generated on github allowing travis to push code on you repository
+        keep_history: true
+        on:
+          branch: 0.3.x
+    - stage: release
+      if: (branch = 0.3.x AND commit_message =~ /^release\:/)
+      script: 
+        - git remote set-url origin https://${GITHUB_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
+        - git config remote.origin.fetch '+refs/heads/*:refs/remotes/origin/*'
+        - git config user.email deploy@travis-ci.org
+        - git fetch --all
+        - git checkout 0.3.x
+      # before_deploy:
+        - git stash
+        - echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ~/.npmrc
+      # deploy:
+      #   provider: script
+      #   skip_cleanup: true
+      #   script:
+        - npm run version -- --yes
+        - npm run publish -- --yes
+        # on:
+        #   all_branches: true
