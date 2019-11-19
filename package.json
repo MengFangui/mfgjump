@@ -21,8 +21,7 @@
   },
   "lint-staged": {
     "linters": {
-      "*.js": [
-      ]
+      "*.js": []
     },
     "ignore": [
       "**/examples/**/*.js",
@@ -30,8 +29,7 @@
     ]
   },
   "husky": {
-    "hooks": {
-    }
+    "hooks": {}
   },
   "repository": {
     "type": "git",
@@ -67,6 +65,7 @@
     }
   },
   "dependencies": {
-    "ajv": "^6.10.2"
+    "ajv": "^6.10.2",
+    "user": "0.0.0"
   }
 }
