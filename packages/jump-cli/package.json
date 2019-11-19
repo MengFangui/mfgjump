@@ -1,5 +1,5 @@
 {
-  "name": "@jumpjsmfg/cli",
+  "name": "@jumpjs/cli",
   "version": "0.3.7",
   "bin": {
     "jump": "./bin/jump.js"

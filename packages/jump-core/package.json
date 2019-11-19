@@ -1,5 +1,5 @@
 {
-    "name": "@jumpjsmfg/core",
+    "name": "@jumpjs/core",
     "version": "0.3.6",
     "scripts": {
         "test": "jest --coverage"

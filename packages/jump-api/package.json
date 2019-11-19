@@ -1,5 +1,5 @@
 {
-  "name": "@jumpjsmfg/api",
+  "name": "@jumpjs/api",
   "version": "1.0.24",
   "browser": "index.js",
   "scripts": {

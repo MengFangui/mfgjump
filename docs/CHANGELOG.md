@@ -2,10 +2,10 @@
 
 ## 2019-04-12
 
-- @jumpjsmfg/api@1.0.16
-- @jumpjsmfg/build@0.2.6
-- @jumpjsmfg/cli@0.1.17
-- @jumpjsmfg/cli-template@0.1.5
+- @jumpjs/api@1.0.16
+- @jumpjs/build@0.2.6
+- @jumpjs/cli@0.1.17
+- @jumpjs/cli-template@0.1.5
 
 ### Bug Fixes
 
@@ -22,7 +22,7 @@
 * **build:** js 编译增加 process.env.NODE_ENV 替换 ([0e8fea1](https://github.com/max-team/Jump/commit/0e8fea1))
 * **build:** jump-cli info ([16cc438](https://github.com/max-team/Jump/commit/16cc438))
 * **build:** jump-cli update ([d6863d1](https://github.com/max-team/Jump/commit/d6863d1))
-* **build:** move config file parse to @jumpjsmfg/build ([c906d5e](https://github.com/max-team/Jump/commit/c906d5e))
+* **build:** move config file parse to @jumpjs/build ([c906d5e](https://github.com/max-team/Jump/commit/c906d5e))
 * **build/cli-template:** pass postcss config to vue-cli postcss-loader ([d66d4f7](https://github.com/max-team/Jump/commit/d66d4f7))
 
 * **build:** support config api/components packages ([842848c](https://github.com/max-team/Jump/commit/842848c))
@@ -32,8 +32,8 @@
 
 ## 2019-04-09
 
-- @jumpjsmfg/api@1.0.15
-- @jumpjsmfg/build@0.2.3
-- @jumpjsmfg/core@0.2.3
-- @jumpjsmfg/cli@0.1.14
-- @jumpjsmfg/cli-template@0.1.4
+- @jumpjs/api@1.0.15
+- @jumpjs/build@0.2.3
+- @jumpjs/core@0.2.3
+- @jumpjs/cli@0.1.14
+- @jumpjs/cli-template@0.1.4

@@ -1,4 +1,4 @@
-# @jumpjsmfg/cli-template
+# @jumpjs/cli-template
 
 > template for jump-cli
 

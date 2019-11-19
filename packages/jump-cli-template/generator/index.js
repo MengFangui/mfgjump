@@ -34,14 +34,14 @@ module.exports = async (api, options) => {
             dependencies: {
                 'vue': '^2.6.6',
                 'vue-router': '^3.0.1',
-                '@jumpjsmfg/components': '^1.0.0',
-                '@jumpjsmfg/api': '^1.0.0'
+                '@jumpjs/components': '^1.0.0',
+                '@jumpjs/api': '^1.0.0'
             },
             devDependencies: {
                 'atom-web-compiler': '^2.2.0',
                 'atom2vue-loader': '^1.0.0',
-                '@jumpjsmfg/vue-cli-plugin-jump-web': '^0.0.9',
-                // '@jumpjsmfg/vue-cli-plugin-pwa': '^0.0.1',
+                '@jumpjs/vue-cli-plugin-jump-web': '^0.0.9',
+                // '@jumpjs/vue-cli-plugin-pwa': '^0.0.1',
                 '@vue/cli-plugin-babel': '^3.0.0',
                 '@vue/cli-service': '^3.5.0',
                 'less': '^3.0.4',
@@ -52,7 +52,7 @@ module.exports = async (api, options) => {
 
         needPWA && api.extendPackage({
             devDependencies: {
-                '@jumpjsmfg/vue-cli-plugin-pwa': '^0.0.1'
+                '@jumpjs/vue-cli-plugin-pwa': '^0.0.1'
             }
         });
     }
@@ -70,8 +70,8 @@ module.exports = async (api, options) => {
         },
         devDependencies: {
             '@vue/cli': '^3.3.0',
-            '@jumpjsmfg/build': '^0.3.0',
-            '@jumpjsmfg/core': '^0.3.0'
+            '@jumpjs/build': '^0.3.0',
+            '@jumpjs/core': '^0.3.0'
         }
     });
 

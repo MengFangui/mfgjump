@@ -8,7 +8,7 @@
 
 ### Features
 
-* **core:** 支持从 `@jumpjsmfg/core` 导出 `$platform`/`config`
+* **core:** 支持从 `@jumpjs/core` 导出 `$platform`/`config`
 * **core:** 支持通过运行时 `config` 配置 H5 路由 `mode`/`base`
 * **core:** 增加 TypeScript 类型定义
 * **build:** 组件名支持 PascalCase
@@ -63,24 +63,24 @@
 
 ```sh
 # 安装 0.3.x jump-cli
-npm install -g @jumpjsmfg/cli@next
+npm install -g @jumpjs/cli@next
 ```
 
-安装 `0.3.x` 版本的 `@jumpjsmfg/cli`，创建一个新项目，然后将业务代码和配置文件合并转移到项目中。
+安装 `0.3.x` 版本的 `@jumpjs/cli`，创建一个新项目，然后将业务代码和配置文件合并转移到项目中。
 
 2、从现有项目迁移
 
 ```sh
 # 安装 0.3.x 依赖包, 非 H5 项目
-npm install @jumpjsmfg/cli@next @jumpjsmfg/build@next @jumpjsmfg/core@next -D
+npm install @jumpjs/cli@next @jumpjs/build@next @jumpjs/core@next -D
 
 # H5 项目
-npm install @jumpjsmfg/cli@next @jumpjsmfg/build@next @jumpjsmfg/core@next -D
-npm install @jumpjsmfg/cli-template@next -D
+npm install @jumpjs/cli@next @jumpjs/build@next @jumpjs/core@next -D
+npm install @jumpjs/cli-template@next -D
 
 ```
 
 
-- 升级全局和本地安装的 `@jumpjsmfg/cli` 版本到 `0.3.x`
-- 升级本地的 `@jumpjsmfg/core` `@jumpjsmfg/build` 版本到 `0.3.x`
-- 升级本地的 `@jumpjsmfg/cli-template` 版本到 `0.3.x` （H5 项目）
+- 升级全局和本地安装的 `@jumpjs/cli` 版本到 `0.3.x`
+- 升级本地的 `@jumpjs/core` `@jumpjs/build` 版本到 `0.3.x`
+- 升级本地的 `@jumpjs/cli-template` 版本到 `0.3.x` （H5 项目）

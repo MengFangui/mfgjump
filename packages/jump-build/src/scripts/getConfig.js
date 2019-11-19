@@ -61,7 +61,7 @@ function formatConfig(options) {
 }
 
 function getRuntimeConfig({
-    corePath = './node_modules/@jumpjsmfg/core'
+    corePath = './node_modules/@jumpjs/core'
 }) {
     return {
         source: {
@@ -88,7 +88,7 @@ function getConfig(options) {
         catch (e) {}
     }
     if (!options) {
-        throw new Error('pass options to @jumpjsmfg/build or use @jumpjsmfg/cli');
+        throw new Error('pass options to @jumpjs/build or use @jumpjs/cli');
     }
     return formatConfig(options);
 }

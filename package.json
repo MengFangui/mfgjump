@@ -1,6 +1,6 @@
 {
-  "name": "@jumpjsmfg/jump",
-  "version": "1.0.1",
+  "name": "@jumpjs/jump",
+  "version": "1.0.2",
   "private": false,
   "scripts": {
     "version": "lerna version patch --conventional-commits",
@@ -11,9 +11,9 @@
     "bootstrap": "npm run clean && npx lerna bootstrap",
     "test": "cross-env NODE_ENV=test lerna run test --stream -- -- --colors",
     "test:stream": "cross-env NODE_ENV=test lerna run test --stream",
-    "test:core": "npm run test:stream -- --no-prefix --scope @jumpjsmfg/core -- -- --colors --verbose",
-    "test:build": "npm run test:stream -- --no-prefix --scope @jumpjsmfg/build -- -- --colors --verbose",
-    "test:api": "npm run test:stream -- --no-prefix --scope @jumpjsmfg/api -- -- --colors --verbose",
+    "test:core": "npm run test:stream -- --no-prefix --scope @jumpjs/core -- -- --colors --verbose",
+    "test:build": "npm run test:stream -- --no-prefix --scope @jumpjs/build -- -- --colors --verbose",
+    "test:api": "npm run test:stream -- --no-prefix --scope @jumpjs/api -- -- --colors --verbose",
     "test:staged": "npm run test:stream -- -- -- --colors --verbose --findRelatedTests",
     "lint": "fecs packages/*/src/**/*.js --reporter=baidu --rule",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",

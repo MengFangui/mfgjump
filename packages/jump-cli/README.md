@@ -1,9 +1,9 @@
-# @jumpjsmfg-cli
+# @jumpjs-cli
 
 ## 安装
 
 ```shell
-npm i -g @jumpjsmfg-cli
+npm i -g @jumpjs-cli
 ```
 
 ## 创建项目

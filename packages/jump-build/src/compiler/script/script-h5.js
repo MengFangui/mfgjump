@@ -272,7 +272,7 @@ exports.compileComponents = function (file, options) {
 // };
 
 // exports.compileApi = function (content, options) {
-//     let apiLibrary = options.devApiPath ? options.devApiPath : '@jumpjsmfg/api';
+//     let apiLibrary = options.devApiPath ? options.devApiPath : '@jumpjs/api';
 //     let contentStr = content.toString();
 //     contentStr = `
 // import Jump, {directives} from '${apiLibrary}';

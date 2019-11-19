@@ -11,9 +11,9 @@ await create(name, options);
 
 因此整个执行流程与 vue-cli 是相同的。
 
-文件产出使用了单独的库，@jumpjsmfg/cli-template 作 vue-cli 的插件。 由于 vue-cli 默认一定会加载 cli-service 这个插件，产出了大量无用内容，因此在 create 完成后，对无用文件进行了删除。
+文件产出使用了单独的库，@jumpjs/cli-template 作 vue-cli 的插件。 由于 vue-cli 默认一定会加载 cli-service 这个插件，产出了大量无用内容，因此在 create 完成后，对无用文件进行了删除。
 
-执行 create 命令时，提示用户选择创建的项目是否需要支持 h5，之后修改 preset，将参数传给 @jumpjsmfg/cli-template。@jumpjsmfg/cli-template 会根据参数 render 不同的文件内容。
+执行 create 命令时，提示用户选择创建的项目是否需要支持 h5，之后修改 preset，将参数传给 @jumpjs/cli-template。@jumpjs/cli-template 会根据参数 render 不同的文件内容。
 
 - jump-cli-template/generator/template: 基础项目文件，无论是否支持 H5，都会使用
 - jump-cli-template/generator/template-h5: 当项目需要支持 h5 时，会在 template 的基础上增加 template-h5 的内容
@@ -28,7 +28,7 @@ await create(name, options);
 
 ## build、serve 指令
 
-build 和 serve 指令的执行流程基本相同，使用的是 @jumpjsmfg/build/src/script/runjs 中的脚本，内部使用 gulp 对小程序进行编译。
+build 和 serve 指令的执行流程基本相同，使用的是 @jumpjs/build/src/script/runjs 中的脚本，内部使用 gulp 对小程序进行编译。
 
 ### h5 的编译
 

@@ -1,6 +1,6 @@
-# @jumpjsmfg/api
+# @jumpjs/api
 
-## [1.0.25](https://github.com/max-team/Jump/compare/@jumpjsmfg/api@1.0.24...@jumpjsmfg/api@1.0.25) (2019-08-05)
+## [1.0.25](https://github.com/max-team/Jump/compare/@jumpjs/api@1.0.24...@jumpjs/api@1.0.25) (2019-08-05)
 
 
 ### Features
@@ -9,13 +9,13 @@
 
 
 
-## [1.0.24](https://github.com/max-team/Jump/compare/@jumpjsmfg/api@1.0.23...@jumpjsmfg/api@1.0.24) (2019-07-19)
+## [1.0.24](https://github.com/max-team/Jump/compare/@jumpjs/api@1.0.23...@jumpjs/api@1.0.24) (2019-07-19)
 
-**Note:** Version bump only for package @jumpjsmfg/api
+**Note:** Version bump only for package @jumpjs/api
 
 
 
-## [1.0.23](https://github.com/max-team/Jump/compare/@jumpjsmfg/api@1.0.22...@jumpjsmfg/api@1.0.23) (2019-07-17)
+## [1.0.23](https://github.com/max-team/Jump/compare/@jumpjs/api@1.0.22...@jumpjs/api@1.0.23) (2019-07-17)
 
 
 ### Features
@@ -25,7 +25,7 @@
 
 
 
-## [1.0.22](https://github.com/max-team/Jump/compare/@jumpjsmfg/api@1.0.21...@jumpjsmfg/api@1.0.22) (2019-06-27)
+## [1.0.22](https://github.com/max-team/Jump/compare/@jumpjs/api@1.0.21...@jumpjs/api@1.0.22) (2019-06-27)
 
 
 ### Bug Fixes
@@ -34,13 +34,13 @@
 
 
 
-## [1.0.21](https://github.com/max-team/Jump/compare/@jumpjsmfg/api@1.0.20...@jumpjsmfg/api@1.0.21) (2019-06-20)
+## [1.0.21](https://github.com/max-team/Jump/compare/@jumpjs/api@1.0.20...@jumpjs/api@1.0.21) (2019-06-20)
 
-**Note:** Version bump only for package @jumpjsmfg/api
+**Note:** Version bump only for package @jumpjs/api
 
 
 
-## [1.0.20](https://github.com/max-team/Jump/compare/@jumpjsmfg/api@1.0.19...@jumpjsmfg/api@1.0.20) (2019-06-19)
+## [1.0.20](https://github.com/max-team/Jump/compare/@jumpjs/api@1.0.19...@jumpjs/api@1.0.20) (2019-06-19)
 
 
 ### Features
@@ -51,7 +51,7 @@
 
 
 
-## [1.0.19](https://github.com/max-team/Jump/compare/@jumpjsmfg/api@1.0.18...@jumpjsmfg/api@1.0.19) (2019-06-05)
+## [1.0.19](https://github.com/max-team/Jump/compare/@jumpjs/api@1.0.18...@jumpjs/api@1.0.19) (2019-06-05)
 
 
 ### Features
@@ -60,7 +60,7 @@
 
 
 
-## [1.0.18](https://github.com/max-team/Jump/compare/@jumpjsmfg/api@1.0.17...@jumpjsmfg/api@1.0.18) (2019-06-04)
+## [1.0.18](https://github.com/max-team/Jump/compare/@jumpjs/api@1.0.17...@jumpjs/api@1.0.18) (2019-06-04)
 
 
 ### Features
@@ -69,7 +69,7 @@
 
 
 
-## [1.0.17](https://github.com/max-team/Jump/compare/@jumpjsmfg/api@1.0.16...@jumpjsmfg/api@1.0.17) (2019-04-16)
+## [1.0.17](https://github.com/max-team/Jump/compare/@jumpjs/api@1.0.16...@jumpjs/api@1.0.17) (2019-04-16)
 
 
 ### Bug Fixes
@@ -78,7 +78,7 @@
 
 
 
-## [1.0.16](https://github.com/max-team/Jump/compare/@jumpjsmfg/api@1.0.16...@jumpjsmfg/api@1.0.16) (2019-04-12)
+## [1.0.16](https://github.com/max-team/Jump/compare/@jumpjs/api@1.0.16...@jumpjs/api@1.0.16) (2019-04-12)
 
 
 ### Features

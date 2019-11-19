@@ -4,8 +4,8 @@
 
 module.exports = {
     transpileDependencies: [
-        '@jumpjsmfg/api',
-        '@jumpjsmfg/components'
+        '@jumpjs/api',
+        '@jumpjs/components'
     ],
     parallel: false,
     chainWebpack: config => {

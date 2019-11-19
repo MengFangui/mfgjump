@@ -4,10 +4,10 @@
 
 ```bash
 # 安装 jump-cli 0.2.x
-npm install -g @jumpjsmfg/cli
+npm install -g @jumpjs/cli
 
 # 0.3.x
-npm install -g @jumpjsmfg/cli@next
+npm install -g @jumpjs/cli@next
 
 # 创建项目
 jump create [projectName]

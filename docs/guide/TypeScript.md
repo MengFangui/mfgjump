@@ -6,7 +6,7 @@
 
 ```javascript
 <script lang="ts">
-import {Vue} from '@jumpjsmfg/core';
+import {Vue} from '@jumpjs/core';
 
 export default Vue.extend({
     data() {
@@ -19,11 +19,11 @@ export default Vue.extend({
 <script>
 ```
 
-**一定要从 `@jumpjsmfg/core` 中引入 Vue**，不支持 `import Vue from 'vue';`。
+**一定要从 `@jumpjs/core` 中引入 Vue**，不支持 `import Vue from 'vue';`。
 
 ## 类型定义
 
-`@jumpjsmfg/core` 中定义了全局的 `swan` 变量，声明了 `this.$api`。
+`@jumpjs/core` 中定义了全局的 `swan` 变量，声明了 `this.$api`。
 
 ![](../assets/swan-definition.png)
 ![](../assets/api-definition.png)
@@ -35,9 +35,9 @@ export default Vue.extend({
 - 扩展 `swan` 全局变量：
 
     ```javascript
-    import {Vue} from '@jumpjsmfg/core';
+    import {Vue} from '@jumpjs/core';
 
-    declare module '@jumpjsmfg/core/types/swan' {
+    declare module '@jumpjs/core/types/swan' {
         interface swan {
             
         }
@@ -47,9 +47,9 @@ export default Vue.extend({
 - 扩展 `this.$api`：
 
     ```javascript
-    import {Vue} from '@jumpjsmfg/core';
+    import {Vue} from '@jumpjs/core';
 
-    declare module '@jumpjsmfg/core/types/jump' {
+    declare module '@jumpjs/core/types/jump' {
         interface jumpApis {
 
         }

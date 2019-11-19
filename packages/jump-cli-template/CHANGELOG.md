@@ -3,31 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.3.5](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.3.4...@jumpjsmfg/cli-template@0.3.5) (2019-09-18)
+## [0.3.5](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.3.4...@jumpjs/cli-template@0.3.5) (2019-09-18)
 
-**Note:** Version bump only for package @jumpjsmfg/cli-template
-
-
-
-
-
-## [0.3.4](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.3.4-beta.0...@jumpjsmfg/cli-template@0.3.4) (2019-09-12)
-
-**Note:** Version bump only for package @jumpjsmfg/cli-template
+**Note:** Version bump only for package @jumpjs/cli-template
 
 
 
 
 
-## [0.3.4-beta.0](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.3.3...@jumpjsmfg/cli-template@0.3.4-beta.0) (2019-09-11)
+## [0.3.4](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.3.4-beta.0...@jumpjs/cli-template@0.3.4) (2019-09-12)
 
-**Note:** Version bump only for package @jumpjsmfg/cli-template
-
-
+**Note:** Version bump only for package @jumpjs/cli-template
 
 
 
-## [0.3.3](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.3.2...@jumpjsmfg/cli-template@0.3.3) (2019-09-10)
+
+
+## [0.3.4-beta.0](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.3.3...@jumpjs/cli-template@0.3.4-beta.0) (2019-09-11)
+
+**Note:** Version bump only for package @jumpjs/cli-template
+
+
+
+
+
+## [0.3.3](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.3.2...@jumpjs/cli-template@0.3.3) (2019-09-10)
 
 
 ### Features
@@ -38,23 +38,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.2](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.3.1...@jumpjsmfg/cli-template@0.3.2) (2019-09-09)
+## [0.3.2](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.3.1...@jumpjs/cli-template@0.3.2) (2019-09-09)
 
-**Note:** Version bump only for package @jumpjsmfg/cli-template
-
-
-
-
-
-## [0.3.1](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.3.1-alpha.2...@jumpjsmfg/cli-template@0.3.1) (2019-09-09)
-
-**Note:** Version bump only for package @jumpjsmfg/cli-template
+**Note:** Version bump only for package @jumpjs/cli-template
 
 
 
 
 
-## [0.3.1-alpha.2](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.3.1-alpha.1...@jumpjsmfg/cli-template@0.3.1-alpha.2) (2019-09-09)
+## [0.3.1](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.3.1-alpha.2...@jumpjs/cli-template@0.3.1) (2019-09-09)
+
+**Note:** Version bump only for package @jumpjs/cli-template
+
+
+
+
+
+## [0.3.1-alpha.2](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.3.1-alpha.1...@jumpjs/cli-template@0.3.1-alpha.2) (2019-09-09)
 
 
 ### Features
@@ -65,7 +65,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1-alpha.1](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.3.1-alpha.0...@jumpjsmfg/cli-template@0.3.1-alpha.1) (2019-09-09)
+## [0.3.1-alpha.1](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.3.1-alpha.0...@jumpjs/cli-template@0.3.1-alpha.1) (2019-09-09)
 
 
 ### Features
@@ -76,7 +76,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1-alpha.0](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.1.14...@jumpjsmfg/cli-template@0.3.1-alpha.0) (2019-09-06)
+## [0.3.1-alpha.0](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.1.14...@jumpjs/cli-template@0.3.1-alpha.0) (2019-09-06)
 
 
 ### Features
@@ -87,7 +87,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.14](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.1.13...@jumpjsmfg/cli-template@0.1.14) (2019-07-19)
+## [0.1.14](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.1.13...@jumpjs/cli-template@0.1.14) (2019-07-19)
 
 
 ### Features
@@ -98,15 +98,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.13](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.1.12...@jumpjsmfg/cli-template@0.1.13) (2019-07-11)
+## [0.1.13](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.1.12...@jumpjs/cli-template@0.1.13) (2019-07-11)
 
-**Note:** Version bump only for package @jumpjsmfg/cli-template
-
-
+**Note:** Version bump only for package @jumpjs/cli-template
 
 
 
-## [0.1.12](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.1.11...@jumpjsmfg/cli-template@0.1.12) (2019-05-29)
+
+
+## [0.1.12](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.1.11...@jumpjs/cli-template@0.1.12) (2019-05-29)
 
 
 ### Bug Fixes
@@ -117,7 +117,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.11](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.1.10...@jumpjsmfg/cli-template@0.1.11) (2019-05-29)
+## [0.1.11](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.1.10...@jumpjs/cli-template@0.1.11) (2019-05-29)
 
 
 ### Features
@@ -128,7 +128,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.10](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.1.9...@jumpjsmfg/cli-template@0.1.10) (2019-05-10)
+## [0.1.10](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.1.9...@jumpjs/cli-template@0.1.10) (2019-05-10)
 
 
 ### Features
@@ -140,7 +140,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.9](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.1.8...@jumpjsmfg/cli-template@0.1.9) (2019-04-17)
+## [0.1.9](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.1.8...@jumpjs/cli-template@0.1.9) (2019-04-17)
 
 
 ### Bug Fixes
@@ -156,10 +156,10 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# @jumpjsmfg/cli-template
+# @jumpjs/cli-template
 
 
-## [0.1.8](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.1.7...@jumpjsmfg/cli-template@0.1.8) (2019-04-17)
+## [0.1.8](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.1.7...@jumpjs/cli-template@0.1.8) (2019-04-17)
 
 
 ### Bug Fixes
@@ -167,7 +167,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **cli-template:** move h5 specified config files to dist-h5 ([3de6acd](https://github.com/max-team/Jump/commit/3de6acd))
 
 
-## [0.1.7](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.1.6...@jumpjsmfg/cli-template@0.1.7) (2019-04-16)
+## [0.1.7](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.1.6...@jumpjs/cli-template@0.1.7) (2019-04-16)
 
 
 ### Features
@@ -175,11 +175,11 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * support setting H5 title ([d63bf9e](https://github.com/max-team/Jump/commit/d63bf9e))
 
 
-## [0.1.6](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.1.5...@jumpjsmfg/cli-template@0.1.6) (2019-04-16)
+## [0.1.6](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.1.5...@jumpjs/cli-template@0.1.6) (2019-04-16)
 
 
 
-## [0.1.5](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli-template@0.1.4...@jumpjsmfg/cli-template@0.1.5) (2019-04-12)
+## [0.1.5](https://github.com/max-team/Jump/compare/@jumpjs/cli-template@0.1.4...@jumpjs/cli-template@0.1.5) (2019-04-12)
 
 
 ### Bug Fixes

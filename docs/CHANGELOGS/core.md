@@ -1,6 +1,6 @@
-# @jumpjsmfg/core
+# @jumpjs/core
 
-## [0.2.22](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.21...@jumpjsmfg/core@0.2.22) (2019-09-03)
+## [0.2.22](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.21...@jumpjs/core@0.2.22) (2019-09-03)
 
 
 ### Bug Fixes
@@ -16,7 +16,7 @@
 
 
 
-## [0.2.21](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.20...@jumpjsmfg/core@0.2.21) (2019-09-02)
+## [0.2.21](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.20...@jumpjs/core@0.2.21) (2019-09-02)
 
 
 ### Bug Fixes
@@ -27,7 +27,7 @@
 
 
 
-## [0.2.20](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.19...@jumpjsmfg/core@0.2.20) (2019-08-30)
+## [0.2.20](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.19...@jumpjs/core@0.2.20) (2019-08-30)
 
 
 ### Features
@@ -45,7 +45,7 @@
 
 
 
-## [0.2.19](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.18...@jumpjsmfg/core@0.2.19) (2019-08-21)
+## [0.2.19](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.18...@jumpjs/core@0.2.19) (2019-08-21)
 
 
 ### Features
@@ -58,15 +58,15 @@
 
 
 
-## [0.2.18](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.17...@jumpjsmfg/core@0.2.18) (2019-08-08)
+## [0.2.18](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.17...@jumpjs/core@0.2.18) (2019-08-08)
 
-**Note:** Version bump only for package @jumpjsmfg/core
-
-
+**Note:** Version bump only for package @jumpjs/core
 
 
 
-## [0.2.17](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.16...@jumpjsmfg/core@0.2.17) (2019-08-08)
+
+
+## [0.2.17](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.16...@jumpjs/core@0.2.17) (2019-08-08)
 
 
 ### Features
@@ -75,7 +75,7 @@
 
 
 
-## [0.2.16](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.15...@jumpjsmfg/core@0.2.16) (2019-07-19)
+## [0.2.16](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.15...@jumpjs/core@0.2.16) (2019-07-19)
 
 
 ### Features
@@ -83,7 +83,7 @@
 * **core:** export config ([94b1173](https://github.com/max-team/Jump/commit/94b1173))([#142](https://github.com/max-team/Jump/issues/142)) ([c4dfa54](https://github.com/max-team/Jump/commit/c4dfa54))
 
 
-## [0.2.15](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.14...@jumpjsmfg/core@0.2.15) (2019-07-11)
+## [0.2.15](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.14...@jumpjs/core@0.2.15) (2019-07-11)
 
 
 ### Bug Fixes
@@ -92,7 +92,7 @@
 
 
 
-## [0.2.14](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.13...@jumpjsmfg/core@0.2.14) (2019-07-04)
+## [0.2.14](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.13...@jumpjs/core@0.2.14) (2019-07-04)
 
 
 ### Performance Improvements
@@ -100,31 +100,31 @@
 * **core:** 去掉不需要的初始 setData 和数据字段 ([#129](https://github.com/max-team/Jump/issues/129)) ([8a19371](https://github.com/max-team/Jump/commit/8a19371))
 
 
-## [0.2.13](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.12...@jumpjsmfg/core@0.2.13) (2019-06-20)
+## [0.2.13](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.12...@jumpjs/core@0.2.13) (2019-06-20)
 
-**Note:** Version bump only for package @jumpjsmfg/core
+**Note:** Version bump only for package @jumpjs/core
 
 
-## [0.2.12](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.11...@jumpjsmfg/core@0.2.12) (2019-06-19)
+## [0.2.12](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.11...@jumpjs/core@0.2.12) (2019-06-19)
 
 ### Bug Fixes
 
 * **core:** v-model 支持绑定 obj.key [#94](https://github.com/max-team/Jump/issues/94) ([6f29098](https://github.com/max-team/Jump/commit/6f29098))
 
 
-## [0.2.11](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.10...@jumpjsmfg/core@0.2.11) (2019-06-11)
+## [0.2.11](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.10...@jumpjs/core@0.2.11) (2019-06-11)
 
 ### Features
 
 * **build & core:** class 和 style 属性支持使用过滤器 ([fe652db](https://github.com/max-team/Jump/commit/fe652db))
 
 
-## [0.2.10](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.9...@jumpjsmfg/core@0.2.10) (2019-05-29)
+## [0.2.10](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.9...@jumpjs/core@0.2.10) (2019-05-29)
 
-**Note:** Version bump only for package @jumpjsmfg/core
+**Note:** Version bump only for package @jumpjs/core
 
 
-## [0.2.9](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.8...@jumpjsmfg/core@0.2.9) (2019-05-14)
+## [0.2.9](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.8...@jumpjs/core@0.2.9) (2019-05-14)
 
 
 ### Features
@@ -132,14 +132,14 @@
 * **build & core: (require build@0.2.24+)** add h5 runtime entry ([f1f7ff9](https://github.com/max-team/Jump/commit/f1f7ff9))
 
 
-## [0.2.8](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.7...@jumpjsmfg/core@0.2.8) (2019-05-13)
+## [0.2.8](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.7...@jumpjs/core@0.2.8) (2019-05-13)
 
 ### Features
 
 * **build & core:** 支持 Vuex ([#46](https://github.com/max-team/Jump/issues/46)) ([173a329](https://github.com/max-team/Jump/commit/173a329))
 
 
-## [0.2.7](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.6...@jumpjsmfg/core@0.2.7) (2019-04-22)
+## [0.2.7](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.6...@jumpjs/core@0.2.7) (2019-04-22)
 
 
 ### Features
@@ -148,7 +148,7 @@
 
 
 
-## [0.2.6](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.5...@jumpjsmfg/core@0.2.6) (2019-04-19)
+## [0.2.6](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.5...@jumpjs/core@0.2.6) (2019-04-19)
 
 
 ### Features
@@ -157,7 +157,7 @@
 
 
 
-## [0.2.5](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.4...@jumpjsmfg/core@0.2.5) (2019-04-17)
+## [0.2.5](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.4...@jumpjs/core@0.2.5) (2019-04-17)
 
 
 ### Features
@@ -166,7 +166,7 @@
 
 
 
-## [0.2.4](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.3...@jumpjsmfg/core@0.2.4) (2019-04-17)
+## [0.2.4](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.3...@jumpjs/core@0.2.4) (2019-04-17)
 
 
 ### Bug Fixes
@@ -179,7 +179,7 @@
 * **core:** disable computed props for later render ([50c89fb](https://github.com/max-team/Jump/commit/50c89fb))
 
 
-## [0.2.3](https://github.com/max-team/Jump/compare/@jumpjsmfg/core@0.2.3...@jumpjsmfg/core@0.2.3) (2019-04-09)
+## [0.2.3](https://github.com/max-team/Jump/compare/@jumpjs/core@0.2.3...@jumpjs/core@0.2.3) (2019-04-09)
 
 - initial version
 
