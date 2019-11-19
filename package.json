@@ -1,6 +1,6 @@
 {
   "name": "mfgjump",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "private": false,
   "scripts": {
     "version": "lerna version patch --conventional-commits",
