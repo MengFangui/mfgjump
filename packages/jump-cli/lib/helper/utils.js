@@ -23,7 +23,7 @@ const dependencyListH5 = [
 ];
 
 const defaultConfig = {
-    registry: 'https://registry.npm.taobao.org'
+    registry: 'https://registry.npmjs.org/'
 };
 
 function getCliVersion() {
