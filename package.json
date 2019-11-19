@@ -31,10 +31,6 @@
   "husky": {
     "hooks": {}
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MengFangui/mfgjump.git"
-  },
   "devDependencies": {
     "@babel/core": "^7.4.0",
     "@babel/preset-env": "^7.4.1",
