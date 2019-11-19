@@ -103,10 +103,10 @@ filters 可以在插值和 props 中使用，复杂表达式可以在插值、pr
 
 Jump 中使用 Vuex 的方法与 Vue 类似，首先在 app.vue 中引入 Vue 和 Vuex，并初始化：
 
-> 由于 Jump 使用定制的 Vue ，因此务必**从 @jumpjs/core 中引入 Vue**。
+> 由于 Jump 使用定制的 Vue ，因此务必**从 @jumpjsmfg/core 中引入 Vue**。
 
 ```javascript
-import {Vue} from '@jumpjs/core';
+import {Vue} from '@jumpjsmfg/core';
 import Vuex from 'vuex';
 
 Vue.use(Vuex);

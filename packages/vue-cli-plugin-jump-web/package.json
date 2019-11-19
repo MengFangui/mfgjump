@@ -1,5 +1,5 @@
 {
-    "name": "@jumpjs/vue-cli-plugin-jump-web",
+    "name": "@jumpjsmfg/vue-cli-plugin-jump-web",
     "version": "0.0.9",
     "description": "vue cli plugin jump web",
     "main": "index.js",

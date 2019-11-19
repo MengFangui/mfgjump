@@ -4,8 +4,8 @@
 
 module.exports = {
     transpileDependencies: [
-        '@jumpjs/api',
-        '@jumpjs/components'
+        '@jumpjsmfg/api',
+        '@jumpjsmfg/components'
     ],
     parallel: false,
     pwa: {

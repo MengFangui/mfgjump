@@ -1,12 +1,12 @@
 {
-  "name": "@jumpjs/cli-template",
+  "name": "@jumpjsmfg/cli-template",
   "version": "1.0.0",
   "private": false,
   "bin": {
     "jump-cli-service": "./bin/jump-cli-service.js"
   },
   "dependencies": {
-    "@jumpjs/vue-cli-plugin-jump-web": "^0.0.9",
+    "@jumpjsmfg/vue-cli-plugin-jump-web": "^0.0.9",
     "@vue/cli-plugin-babel": "^3.0.0",
     "@vue/cli-service": "~3.5.1",
     "chalk": "^2.4.2",

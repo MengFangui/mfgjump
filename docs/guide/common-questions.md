@@ -24,7 +24,7 @@ gulp.watch 不能设置为绝对路径或 `./` 开头的路径，否则不能自
 
 详细说明见：https://stackoverflow.com/questions/22391527/gulps-gulp-watch-not-triggered-for-new-or-deleted-files 。
 
-### 为什么我升级了 `@jumpjs/api` 和 `@jumpjs/components` 构建产物却没有变化？
+### 为什么我升级了 `@jumpjsmfg/api` 和 `@jumpjsmfg/components` 构建产物却没有变化？
 
 这是 `@vue/cli` 插件 `@vue/cli-plugin-babel` 中使用 `cache-loader` 的一个 Bug，导致 `transpileDependencies` 中的 npm 升级后不会更新缓存，在官方修复这个 Bug 之前，可以通过在更新 `transpileDependencies` 包之后手动删除 H5 产出目录下的`node_modules/.cache` 目录来解决。
 

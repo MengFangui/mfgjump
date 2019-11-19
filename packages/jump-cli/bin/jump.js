@@ -54,7 +54,7 @@ if (
 
 // 检查 cli 是否有更新，给出提示
 const cliVersion = getCliVersion();
-getPackageVersion('@jumpjs/cli', 'latest')
+getPackageVersion('@jumpjsmfg/cli', 'latest')
     .then(data => {
         const latestVersion = data && data.version;
         if (!latestVersion) {
@@ -62,7 +62,7 @@ getPackageVersion('@jumpjs/cli', 'latest')
         }
 
         if (semver.lt(cliVersion, latestVersion)) {
-            console.log(chalk.green(`@jumpjs/cli 有更新，当前版本为 ${cliVersion}, 最新版本为 ${latestVersion}，请尽快升级。`));
+            console.log(chalk.green(`@jumpjsmfg/cli 有更新，当前版本为 ${cliVersion}, 最新版本为 ${latestVersion}，请尽快升级。`));
         }
     });
 
@@ -143,7 +143,7 @@ program
             useEslint: false,
             _isPreset: true,
             plugins: {
-                '@jumpjs/cli-template': {
+                '@jumpjsmfg/cli-template': {
                     version: '^0.3.0',
                     noH5: target === 'noH5',
                     needPWA

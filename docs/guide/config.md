@@ -14,7 +14,7 @@ Type：`(target: string) => Object`
 小程序配置文件列表，每次编译时时不会从 `dest` 删除。
 
 ### `appConfig`
-Since：`@jumpjs/build@0.3.8`
+Since：`@jumpjsmfg/build@0.3.8`
 
 Type: `{config: Object appJsonConfig}`
 

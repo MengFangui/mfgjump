@@ -268,7 +268,7 @@ async function compile(file, opt) {
 
         const buildConfig = options._config;
         const {packages = {}, h5 = {}} = buildConfig;
-        const API_LIB = packages.api || '@jumpjs/api';
+        const API_LIB = packages.api || '@jumpjsmfg/api';
         const mode = h5.mode || 'history';
         content += `import Jump, {directives} from '${API_LIB}';\n`;
         content += 'export {Jump, directives};\n';

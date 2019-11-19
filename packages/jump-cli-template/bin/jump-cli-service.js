@@ -90,12 +90,12 @@ const context = path.resolve(process.cwd(), args.path);
     catch (e) {}
     const plugins = pwaSupport
         ? [
-            idToPlugin('@jumpjs/vue-cli-plugin-jump-web'),
+            idToPlugin('@jumpjsmfg/vue-cli-plugin-jump-web'),
             idToPlugin('@vue/cli-plugin-babel'),
-            idToPlugin('@jumpjs/vue-cli-plugin-pwa')
+            idToPlugin('@jumpjsmfg/vue-cli-plugin-pwa')
         ]
         : [
-            idToPlugin('@jumpjs/vue-cli-plugin-jump-web'),
+            idToPlugin('@jumpjsmfg/vue-cli-plugin-jump-web'),
             idToPlugin('@vue/cli-plugin-babel')
         ];
     const service = new Service(context, {

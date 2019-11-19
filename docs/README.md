@@ -32,7 +32,7 @@ pageClass: home-page
 
 ## 快速开始
 ```bash
-npm install -g @jumpjs/cli
+npm install -g @jumpjsmfg/cli
 jump create jump-project
 ```
 

@@ -33,16 +33,16 @@ const {
 } = require('./helper/utils');
 
 // const dependencyList = [
-//     '@jumpjs/build',
-//     '@jumpjs/core',
-//     '@jumpjs/cli-template'
+//     '@jumpjsmfg/build',
+//     '@jumpjsmfg/core',
+//     '@jumpjsmfg/cli-template'
 // ];
 // const dependencyListH5 = [
-//     '@jumpjs/components',
-//     '@jumpjs/api',
+//     '@jumpjsmfg/components',
+//     '@jumpjsmfg/api',
 //     'atom-web-compiler',
 //     'atom2vue-loader',
-//     '@jumpjs/vue-cli-plugin-jump-web'
+//     '@jumpjsmfg/vue-cli-plugin-jump-web'
 // ];
 
 function getDependencyList() {

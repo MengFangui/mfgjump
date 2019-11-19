@@ -18,7 +18,7 @@ function getConfig(cmd) {
         target,
         param: env
     } = getTargetParam(cmd.target);
-    const buildPath = path.resolve(process.cwd(), 'node_modules/@jumpjs/build');
+    const buildPath = path.resolve(process.cwd(), 'node_modules/@jumpjsmfg/build');
     return {
         target,
         buildPath,

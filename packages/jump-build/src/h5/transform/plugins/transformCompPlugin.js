@@ -6,7 +6,7 @@
 /* eslint-disable babel/new-cap */
 
 module.exports = function getVisitor(options = {}) {
-    const COMP_LIBRARY_NAME = options.devCompPath ? options.devCompPath : '@jumpjs/components/lib';
+    const COMP_LIBRARY_NAME = options.devCompPath ? options.devCompPath : '@jumpjsmfg/components/lib';
 
     return ({types: t}) => {
         const componentSet = options.componentSet;

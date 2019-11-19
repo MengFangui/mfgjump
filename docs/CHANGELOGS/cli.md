@@ -1,13 +1,13 @@
-# @jumpjs/cli
+# @jumpjsmfg/cli
 
-## [0.1.25](https://github.com/max-team/Jump/compare/@jumpjs/cli@0.1.24...@jumpjs/cli@0.1.25) (2019-06-27)
+## [0.1.25](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli@0.1.24...@jumpjsmfg/cli@0.1.25) (2019-06-27)
 
 ### Features
 
 * 支持自定义 NODE_ENV ([bff0984](https://github.com/max-team/Jump/commit/bff0984))
 
 
-## [0.1.24](https://github.com/max-team/Jump/compare/@jumpjs/cli@0.1.23...@jumpjs/cli@0.1.24) (2019-05-29)
+## [0.1.24](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli@0.1.23...@jumpjsmfg/cli@0.1.24) (2019-05-29)
 
 ### Features
 
@@ -15,7 +15,7 @@
 * check latest jump-cli version ([93a937f](https://github.com/max-team/Jump/commit/93a937f))
 
 
-## [0.1.23](https://github.com/max-team/Jump/compare/@jumpjs/cli@0.1.22...@jumpjs/cli@0.1.23) (2019-05-13)
+## [0.1.23](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli@0.1.22...@jumpjsmfg/cli@0.1.23) (2019-05-13)
 
 
 ### Features
@@ -24,7 +24,7 @@
 
 
 
-## [0.1.22](https://github.com/max-team/Jump/compare/@jumpjs/cli@0.1.21...@jumpjs/cli@0.1.22) (2019-05-10)
+## [0.1.22](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli@0.1.21...@jumpjsmfg/cli@0.1.22) (2019-05-10)
 
 
 ### Features
@@ -33,7 +33,7 @@
 * **cli:** support h5:xx  swan:xx multi packages ([ce99ea0](https://github.com/max-team/Jump/commit/ce99ea0))
 
 
-## [0.1.21](https://github.com/max-team/Jump/compare/@jumpjs/cli@0.1.20...@jumpjs/cli@0.1.21) (2019-04-25)
+## [0.1.21](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli@0.1.20...@jumpjsmfg/cli@0.1.21) (2019-04-25)
 
 
 ### Bug Fixes
@@ -47,7 +47,7 @@
 
 
 
-## [0.1.20](https://github.com/max-team/Jump/compare/@jumpjs/cli@0.1.19...@jumpjs/cli@0.1.20) (2019-04-19)
+## [0.1.20](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli@0.1.19...@jumpjsmfg/cli@0.1.20) (2019-04-19)
 
 
 ### Features
@@ -55,7 +55,7 @@
 * **cli:** `build` 和 `serve` 支持多 target，如 `-t h5,swan` ([1d7edfb](https://github.com/max-team/Jump/commit/1d7edfb))
 
 
-## [0.1.19](https://github.com/max-team/Jump/compare/@jumpjs/cli@0.1.18...@jumpjs/cli@0.1.19) (2019-04-17)
+## [0.1.19](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli@0.1.18...@jumpjsmfg/cli@0.1.19) (2019-04-17)
 
 
 ### Features
@@ -64,7 +64,7 @@
 
 
 
-## [0.1.18](https://github.com/max-team/Jump/compare/@jumpjs/cli@0.1.17...@jumpjs/cli@0.1.18) (2019-04-16)
+## [0.1.18](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli@0.1.17...@jumpjsmfg/cli@0.1.18) (2019-04-16)
 
 
 ### Bug Fixes
@@ -73,7 +73,7 @@
 
 
 
-## [0.1.17](https://github.com/max-team/Jump/compare/@jumpjs/cli@0.1.14...@jumpjs/cli@0.1.17) (2019-04-12)
+## [0.1.17](https://github.com/max-team/Jump/compare/@jumpjsmfg/cli@0.1.14...@jumpjsmfg/cli@0.1.17) (2019-04-12)
 
 ### Features
 

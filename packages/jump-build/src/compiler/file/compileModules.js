@@ -15,7 +15,7 @@ const {getPathToCWD, getModuleName} = require('../../helper/path');
 const path = require('path');
 
 const modules = {
-    '@jumpjs/core': {
+    '@jumpjsmfg/core': {
         needCompile: false,
         path: './jump-core/index.js'
     },
@@ -26,7 +26,7 @@ const modules = {
 };
 
 const H5Modules = {
-    '@jumpjs/core': {
+    '@jumpjsmfg/core': {
         needCompile: false,
         path: './index'
     }

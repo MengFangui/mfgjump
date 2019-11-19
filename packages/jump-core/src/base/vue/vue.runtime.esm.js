@@ -2203,7 +2203,7 @@ function updateVMProps(vm, propsData) {
 
 }
 
-// for @jumpjs/core used for update Child Props
+// for @jumpjsmfg/core used for update Child Props
 function updateChildProps() {
   var this$1 = this;
 

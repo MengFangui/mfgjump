@@ -27,18 +27,18 @@ function compile(options) {
     let entry;
     const coreDestDir = path.resolve(process.cwd(), destPath + '/' + dest.coreDir);
     if (target === 'wx') {
-        entry = require.resolve('@jumpjs/core/src/wx', {
+        entry = require.resolve('@jumpjsmfg/core/src/wx', {
             paths: [process.cwd()]
         });
     }
     else if (target === 'swan') {
-        entry = require.resolve('@jumpjs/core/src/swan', {
+        entry = require.resolve('@jumpjsmfg/core/src/swan', {
             paths: [process.cwd()]
         });
     }
     else if (target === 'h5') {
         // h5 runtime just copy it
-        entry = require.resolve('@jumpjs/core/src/h5', {
+        entry = require.resolve('@jumpjsmfg/core/src/h5', {
             paths: [process.cwd()]
         });
         const entryDir = path.dirname(entry);

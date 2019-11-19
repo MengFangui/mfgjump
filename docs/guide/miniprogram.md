@@ -368,16 +368,16 @@ app.$api.request().then();
 
 ```
 
-## @jumpjs/core
+## @jumpjsmfg/core
 
-运行时可以从 `@jumpjs/core` 引入以下模块
+运行时可以从 `@jumpjsmfg/core` 引入以下模块
 
 ### `Vue`
 
 运行时使用的 Vue，用于使用 `vuex` 或定义全局过滤器等。
 
 ### `config`
-Since：`@jumpjs/core@0.3.0`
+Since：`@jumpjsmfg/core@0.3.0`
 
 运行时配置接口
 

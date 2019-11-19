@@ -1,10 +1,10 @@
-# @jumpjs/build
+# @jumpjsmfg/build
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 
-## [0.3.12](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.11...@jumpjs/build@0.3.12) (2019-10-31)
+## [0.3.12](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.11...@jumpjsmfg/build@0.3.12) (2019-10-31)
 
 
 ### Bug Fixes
@@ -15,7 +15,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.11](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.10...@jumpjs/build@0.3.11) (2019-10-31)
+## [0.3.11](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.10...@jumpjsmfg/build@0.3.11) (2019-10-31)
 
 
 ### Bug Fixes
@@ -26,7 +26,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.10](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.9...@jumpjs/build@0.3.10) (2019-10-14)
+## [0.3.10](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.9...@jumpjsmfg/build@0.3.10) (2019-10-14)
 
 
 ### Bug Fixes
@@ -43,7 +43,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.9](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.8...@jumpjs/build@0.3.9) (2019-09-20)
+## [0.3.9](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.8...@jumpjsmfg/build@0.3.9) (2019-09-20)
 
 
 ### Bug Fixes
@@ -59,7 +59,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.8](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.7...@jumpjs/build@0.3.8) (2019-09-18)
+## [0.3.8](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.7...@jumpjsmfg/build@0.3.8) (2019-09-18)
 
 
 ### Features
@@ -73,7 +73,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.7](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.6...@jumpjs/build@0.3.7) (2019-09-12)
+## [0.3.7](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.6...@jumpjsmfg/build@0.3.7) (2019-09-12)
 
 
 ### Bug Fixes
@@ -83,7 +83,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.6](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.6-beta.2...@jumpjs/build@0.3.6) (2019-09-12)
+## [0.3.6](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.6-beta.2...@jumpjsmfg/build@0.3.6) (2019-09-12)
 
 
 ### Bug Fixes
@@ -98,7 +98,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.6-beta.0](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.5...@jumpjs/build@0.3.6-beta.0) (2019-09-11)
+## [0.3.6-beta.0](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.5...@jumpjsmfg/build@0.3.6-beta.0) (2019-09-11)
 
 
 ### Features
@@ -108,7 +108,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.5](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.4...@jumpjs/build@0.3.5) (2019-09-10)
+## [0.3.5](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.4...@jumpjsmfg/build@0.3.5) (2019-09-10)
 
 
 ### Bug Fixes
@@ -119,7 +119,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.4](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.3...@jumpjs/build@0.3.4) (2019-09-10)
+## [0.3.4](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.3...@jumpjsmfg/build@0.3.4) (2019-09-10)
 
 
 ### Bug Fixes
@@ -130,7 +130,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.3](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.2...@jumpjs/build@0.3.3) (2019-09-10)
+## [0.3.3](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.2...@jumpjsmfg/build@0.3.3) (2019-09-10)
 
 
 ### Bug Fixes
@@ -139,7 +139,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.2](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.1...@jumpjs/build@0.3.2) (2019-09-10)
+## [0.3.2](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.1...@jumpjsmfg/build@0.3.2) (2019-09-10)
 
 
 ### Bug Fixes
@@ -148,7 +148,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0...@jumpjs/build@0.3.1) (2019-09-09)
+## [0.3.1](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0...@jumpjsmfg/build@0.3.1) (2019-09-09)
 
 
 ### Bug Fixes
@@ -159,15 +159,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.0](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.11...@jumpjs/build@0.3.0) (2019-09-09)
+## [0.3.0](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.11...@jumpjsmfg/build@0.3.0) (2019-09-09)
 
-**Note:** Version bump only for package @jumpjs/build
-
-
+**Note:** Version bump only for package @jumpjsmfg/build
 
 
 
-## [0.3.0-alpha.11](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.10...@jumpjs/build@0.3.0-alpha.11) (2019-09-09)
+
+
+## [0.3.0-alpha.11](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.10...@jumpjsmfg/build@0.3.0-alpha.11) (2019-09-09)
 
 
 ### Features
@@ -178,7 +178,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.0-alpha.10](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.9...@jumpjs/build@0.3.0-alpha.10) (2019-09-09)
+## [0.3.0-alpha.10](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.9...@jumpjsmfg/build@0.3.0-alpha.10) (2019-09-09)
 
 
 ### Features
@@ -189,7 +189,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.0-alpha.9](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.8...@jumpjs/build@0.3.0-alpha.9) (2019-09-09)
+## [0.3.0-alpha.9](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.8...@jumpjsmfg/build@0.3.0-alpha.9) (2019-09-09)
 
 
 ### Features
@@ -200,15 +200,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.0-alpha.8](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.7...@jumpjs/build@0.3.0-alpha.8) (2019-09-06)
+## [0.3.0-alpha.8](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.7...@jumpjsmfg/build@0.3.0-alpha.8) (2019-09-06)
 
-**Note:** Version bump only for package @jumpjs/build
-
-
+**Note:** Version bump only for package @jumpjsmfg/build
 
 
 
-## [0.3.0-alpha.7](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.6...@jumpjs/build@0.3.0-alpha.7) (2019-09-06)
+
+
+## [0.3.0-alpha.7](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.6...@jumpjsmfg/build@0.3.0-alpha.7) (2019-09-06)
 
 
 ### Features
@@ -220,7 +220,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.0-alpha.6](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.5...@jumpjs/build@0.3.0-alpha.6) (2019-08-30)
+## [0.3.0-alpha.6](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.5...@jumpjsmfg/build@0.3.0-alpha.6) (2019-08-30)
 
 
 ### Features
@@ -231,7 +231,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.0-alpha.5](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.4...@jumpjs/build@0.3.0-alpha.5) (2019-08-01)
+## [0.3.0-alpha.5](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.4...@jumpjsmfg/build@0.3.0-alpha.5) (2019-08-01)
 
 
 ### Bug Fixes
@@ -243,12 +243,12 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.0-alpha.4](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.3...@jumpjs/build@0.3.0-alpha.4) (2019-07-25)
+## [0.3.0-alpha.4](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.3...@jumpjsmfg/build@0.3.0-alpha.4) (2019-07-25)
 
-**Note:** Version bump only for package @jumpjs/build
+**Note:** Version bump only for package @jumpjsmfg/build
 
 
-## [0.3.0-alpha.3](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.2...@jumpjs/build@0.3.0-alpha.3) (2019-07-25)
+## [0.3.0-alpha.3](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.2...@jumpjsmfg/build@0.3.0-alpha.3) (2019-07-25)
 
 
 ### Bug Fixes
@@ -262,13 +262,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.0-alpha.2](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.1...@jumpjs/build@0.3.0-alpha.2) (2019-07-23)
+## [0.3.0-alpha.2](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.1...@jumpjsmfg/build@0.3.0-alpha.2) (2019-07-23)
 
-**Note:** Version bump only for package @jumpjs/build
+**Note:** Version bump only for package @jumpjsmfg/build
 
 
 
-## [0.3.0-alpha.1](https://github.com/max-team/Jump/compare/@jumpjs/build@0.3.0-alpha.0...@jumpjs/build@0.3.0-alpha.1) (2019-07-23)
+## [0.3.0-alpha.1](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.3.0-alpha.0...@jumpjsmfg/build@0.3.0-alpha.1) (2019-07-23)
 
 
 ### Features
@@ -278,7 +278,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.0-alpha.0](https://github.com/max-team/Jump/compare/@jumpjs/build@0.2.51...@jumpjs/build@0.3.0-alpha.1) (2019-07-11)
+## [0.3.0-alpha.0](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.2.51...@jumpjsmfg/build@0.3.0-alpha.1) (2019-07-11)
 
 
 * fix update child props, fix ([4901ca4](https://github.com/max-team/Jump/commit/4901ca4))
@@ -286,7 +286,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.51](https://github.com/max-team/Jump/compare/@jumpjs/build@0.2.50...@jumpjs/build@0.2.51) (2019-07-11)
+## [0.2.51](https://github.com/max-team/Jump/compare/@jumpjsmfg/build@0.2.50...@jumpjsmfg/build@0.2.51) (2019-07-11)
 
-**Note:** Version bump only for package @jumpjs/build
+**Note:** Version bump only for package @jumpjsmfg/build
 
