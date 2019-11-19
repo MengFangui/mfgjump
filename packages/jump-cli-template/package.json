@@ -1,6 +1,7 @@
 {
   "name": "@jumpjs/cli-template",
   "version": "1.0.0",
+  "private": false,
   "bin": {
     "jump-cli-service": "./bin/jump-cli-service.js"
   },
